@@ -1,0 +1,20 @@
+﻿Cofradía del Santo Entierro;1700;250;Sevilla
+Cofradía de la Esperanza;1850;300;Córdoba
+Cofradía de la Macarena;1595;500;Sevilla
+Cofradía de los Gitanos;1800;450;Granada
+Cofradía del Silencio;1650;320;Málaga
+Cofradía de Jesús Nazareno;1725;400;Valladolid
+Cofradía de la Soledad;1600;350;Burgos
+Cofradía de San Gonzalo;1942;800;Sevilla
+Cofradía del Cristo del Perdón;1805;220;Murcia
+Cofradía de la Pasión;1780;280;Zaragoza
+Cofradía de la Virgen de la Piedad;1900;150;Toledo
+Cofradía del Gran Poder;1605;1000;Sevilla
+Cofradía de la Caridad;1750;270;Cádiz
+Cofradía del Cristo de la Sangre;1680;330;Albacete
+Cofradía del Cristo Yacente;1550;200;Salamanca
+Cofradía de Nuestra Señora de los Dolores;1950;500;Madrid
+Cofradía de la Santa Cena;1980;350;Jaén
+Cofradía de la Oración en el Huerto;1920;270;Huelva
+Cofradía de la Santa Faz;1580;600;Alicante
+Cofradía del Resucitado;2000;450;Barcelona

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SemanaSanta>
+    <cofradia>
+        <nombre>﻿Cofradía del Santo Entierro</nombre>
+        <numeroHermanos>1700</numeroHermanos>
+        <fundacion>250</fundacion>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Esperanza</nombre>
+        <numeroHermanos>1850</numeroHermanos>
+        <fundacion>300</fundacion>
+        <ciudad>Córdoba</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Macarena</nombre>
+        <numeroHermanos>1595</numeroHermanos>
+        <fundacion>500</fundacion>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de los Gitanos</nombre>
+        <numeroHermanos>1800</numeroHermanos>
+        <fundacion>450</fundacion>
+        <ciudad>Granada</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Silencio</nombre>
+        <numeroHermanos>1650</numeroHermanos>
+        <fundacion>320</fundacion>
+        <ciudad>Málaga</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de Jesús Nazareno</nombre>
+        <numeroHermanos>1725</numeroHermanos>
+        <fundacion>400</fundacion>
+        <ciudad>Valladolid</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Soledad</nombre>
+        <numeroHermanos>1600</numeroHermanos>
+        <fundacion>350</fundacion>
+        <ciudad>Burgos</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de San Gonzalo</nombre>
+        <numeroHermanos>1942</numeroHermanos>
+        <fundacion>800</fundacion>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo del Perdón</nombre>
+        <numeroHermanos>1805</numeroHermanos>
+        <fundacion>220</fundacion>
+        <ciudad>Murcia</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Pasión</nombre>
+        <numeroHermanos>1780</numeroHermanos>
+        <fundacion>280</fundacion>
+        <ciudad>Zaragoza</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Virgen de la Piedad</nombre>
+        <numeroHermanos>1900</numeroHermanos>
+        <fundacion>150</fundacion>
+        <ciudad>Toledo</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Gran Poder</nombre>
+        <numeroHermanos>1605</numeroHermanos>
+        <fundacion>1000</fundacion>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Caridad</nombre>
+        <numeroHermanos>1750</numeroHermanos>
+        <fundacion>270</fundacion>
+        <ciudad>Cádiz</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo de la Sangre</nombre>
+        <numeroHermanos>1680</numeroHermanos>
+        <fundacion>330</fundacion>
+        <ciudad>Albacete</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo Yacente</nombre>
+        <numeroHermanos>1550</numeroHermanos>
+        <fundacion>200</fundacion>
+        <ciudad>Salamanca</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de Nuestra Señora de los Dolores</nombre>
+        <numeroHermanos>1950</numeroHermanos>
+        <fundacion>500</fundacion>
+        <ciudad>Madrid</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Santa Cena</nombre>
+        <numeroHermanos>1980</numeroHermanos>
+        <fundacion>350</fundacion>
+        <ciudad>Jaén</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Oración en el Huerto</nombre>
+        <numeroHermanos>1920</numeroHermanos>
+        <fundacion>270</fundacion>
+        <ciudad>Huelva</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Santa Faz</nombre>
+        <numeroHermanos>1580</numeroHermanos>
+        <fundacion>600</fundacion>
+        <ciudad>Alicante</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Resucitado</nombre>
+        <numeroHermanos>2000</numeroHermanos>
+        <fundacion>450</fundacion>
+        <ciudad>Barcelona</ciudad>
+    </cofradia>
+</SemanaSanta>
